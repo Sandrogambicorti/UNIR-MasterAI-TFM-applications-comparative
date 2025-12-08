@@ -27,5 +27,6 @@ Miembros:
 - Sandro,
   - Formación académica: Ingeniería Técnica en Informática de Sistemas
   - Más de 2 años de experiencia laboral en sector de la ingeniería Electromagnética
+  - Más de 10 años de experiencia como técnico y revisor de equipos
 
 Si tu candidatura también es potente hemos de contactarnos, que hay 4 TFMs sobre temas eléctricos y seguro que podemos llegar a un compromiso :)
